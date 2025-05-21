@@ -60,3 +60,18 @@ span.underline{ text-decoration: underline; }
 q { quotes: "“" "”" "‘" "’"; }
 
 div.column{ display: inline-block; vertical-align: top; width: 50%; }
+
+blockquote {
+    font-family: 'KaiTi', 'KaiTi_GB2312', 'STKaiti', 'DejaVu Sans Mono';
+}
+
+.flushleft{
+    text-align: left!important;
+}
+.flushright{
+    text-align: right!important;
+}
+
+.center{
+    text-align: center !important;
+}
